@@ -1,0 +1,84 @@
+# Scrapped Data
+realcompany.xlsx
+company.xlsx
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+*.whl
+pip-log.txt
+pip-progress.txt
+wheel-errors.txt
+*.manifest
+
+# Environments
+.venv
+venv/
+env/
+ENV/
+*.env
+
+# PyInstaller
+#  Often these are created before PyInstaller builds the exe, so as to inject date/other infos into it.
+# *_/_*
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage*
+*.cover
+.pytest_cache/
+nosetests.xml
+doctests.txt
+.mypy_cache/
+.pyre/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py*
+db.sqlite3
+db.sqlite3-*
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build
+
+# MkDocs documentation
+site
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS or Editor folders
+.DS_Store
+*.swp
+*.swo
+*~
